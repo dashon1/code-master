@@ -17,6 +17,7 @@ import AIPersonalizedPath from './pages/AIPersonalizedPath';
 import Onboarding from './pages/Onboarding';
 import Pricing from './pages/Pricing';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -38,6 +39,7 @@ export const PAGES = {
     "AIPersonalizedPath": AIPersonalizedPath,
     "Onboarding": Onboarding,
     "Pricing": Pricing,
+    "Login": Login,
 }
 
 export const pagesConfig = {
